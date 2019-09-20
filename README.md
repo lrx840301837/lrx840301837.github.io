@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## 刘瑞欣
 
-You can use the [editor on GitHub](https://github.com/lrx840301837/lrx840301837.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+学校：石家庄铁道大学       籍贯：河北省邢台               出生年月：1998.01     
+手机号：13028690102       邮箱：lrx20200125@163.com     政治面貌：中共党员
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
 
-### Markdown
+2016.09-至今     石家庄铁道大学     软件工程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主修课程：软件：软件工程概论、软件需求与分析、软件构造、软件设计、软件体系架构、软件测试、人机交互、软件过程管理 
+程序语言：C语言、C++、Java（重点学习）、C#、Python、统一建模语言（UML） 专业基础课：离散数学、数据结构、数据库原理、操作系统、计算机网络 
+公共基础课：高等数学（上、下）、线性代数、大学英语、概率论与数理统计、思政课（思修、近现代史、马原、毛概）
 
-```markdown
-Syntax highlighted code block
+### 主要获奖情况
 
-# Header 1
-## Header 2
-### Header 3
+2019年获得调研河北省级二等奖 2019年大学生创新创业项目-智能云卫生间，按期结题，并获得一项软件著作权 
+2018年被评为校级优秀志愿者，优秀共青团干部，最美大学生-志愿之星提名奖 
+2018年获得校级微视频大赛三等奖 
+2018年开发微信小程序-石家庄地铁查询上线使用 
+多次获得单项奖学金，一次二等奖。
 
-- Bulleted
-- List
+### 在校任职情况
 
-1. Numbered
-2. List
+2016-2017学年：信息学院学生会外联部、信息米阳青协策划部干事，信1607-1班班长 
+2017-2018学年：信息学院军训辅训教官，信息米阳青协秘书处部长，信1605-3班班长 
+2018-2019学年：信息学院军训主训教官，信息米阳青协会长，信1605-3班班长，辅导员助理 
+2019年6月至今：信息学院军训教官长、总负责人，石家庄市学联驻会执行主席，班长。
 
-**Bold** and _Italic_ and `Code` text
+### 主要实习经历
 
-[Link](url) and ![Image](src)
-```
+2017年9月，新开普电子股份有限公司认识实习。 2018年寒假，参加“红柳行动”支教西部山区，去甘肃漳县支教近一个月时间。 2018年5月，西柏坡认识实习。 2019年6月至今，石家庄团市委学少部，石家庄市学联驻会执行主席，一年。 2019年9月，大数据技能实习。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 项目经验
 
-### Jekyll Themes
+1.智慧城市云卫生间：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrx840301837/lrx840301837.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+项目时间：2018.04-2019.04
 
-### Support or Contact
+项目描述：为响应习近平总书记的号召，加快推进厕所革命，我们设计出了基于STM32的厕所智能监测系统。可以实现厕所卫生的实时监测及自动冲水，同步或定时传输数据至环保部门，以便采取相应措施，保证厕所卫生整洁。居民可以通过微信小程序的定位系统，查看附近的厕所位置以及如厕人数，选择合适的厕所。用户在使用厕所时，系统自动统计时长，超过一定时长后提醒防止过长时间占用厕位，用户可在手机上反馈信息如某处损坏等等。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+主要负责：主要负责微信小程序的开发以及运维。
+
+2.石家庄地铁查询
+
+项目时间：2017.10-2018.02
+
+项目描述：基于石家庄地铁部分线路刚刚建成投入使用，手机微信中例如本地宝等可以查询地铁信息的微信小程序还无法查询石家庄地铁的时刻表和位置等信息，我们开发了此程序。此小程序共四个界面，分别为线路查询界面——通过获取位置和输入位置的方式查询地铁线路和价位、站点位置查询——点击相应站名，直接显示其定位、线路图——总体的线路图、联系我们——点击直接打开拨号自动复制粘贴到拨号。
+
+主要负责：在此项目中，我负责微信管理平台的操作，包括项目环境的搭建，项目数据的汇总，项目的提交审核等，以及对于项目的宣传，拉用户来使用，汇总用户体验，提出项目完善方案。大部分项目代码。
+
+### 专业特长
+
+熟练掌握 Java/C/C++开发语言，擅长基于面向对象思想的编程技术，具有较好的编程能力和多种软件开发经验； 熟悉SQL Server、MySQL和Oracle 数据库软件的使用和开发，使用过MongoDB分布式数据库，具有一定的数据库设计与维护能力； 专业课程具备用户需求、软件体系架构等开放脑筋的课程，懂得协作。
+
+### 自我评价
+
+1.具有较强的组织、沟通、协调能力。大学四年都任班长一职，在院青年志愿者协会工作三年，历任干事，部长，会长职位，竞选上学院军训教官三年，能够很好地统筹各种事务，带领班级、组织、方队获得多次荣誉。
+2.性格开朗，活泼。在迎新晚会中组织并参与教官节目表演两次，都饰演了重要角色。
+3.思想积极、工作认真，能抗压。积极向上，努力做到最好。被聘为石家庄市学联驻会执行主席，面对单位、校内、学习的各种事宜，更很好处理时间分配，也对政府比较熟悉。
